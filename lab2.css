@@ -1,0 +1,32 @@
+body{
+    background-color: lightgreen;
+  }
+  h1, h2 {
+    color: darkblue;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  ul {
+    border: 2px solid orange;
+  }
+  
+  ol {
+    border: 2px solid red;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  h1, strong {
+    color: purple;
+  }
+  
+  em {
+    color: purple;
+  }
+    
